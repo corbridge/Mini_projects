@@ -39,7 +39,7 @@ void displayAllRecords(STUDENT_RECORD_t *student, int number_students)
     }
 }
 
-// void addNewRecord()
-// {
+void addNewRecord()
+{
 
-// }
+}
